@@ -5,3 +5,6 @@ Mata Kuliah Mahasiswa yang ada
 4. Fisika
 5. Elektromagnetika
 6. Antena dan Propagasi
+7. Pengetahuan Lingkungan
+8. Pendidikan Agama
+9. Kewarganegaraan
