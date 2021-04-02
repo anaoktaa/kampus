@@ -4,5 +4,4 @@ Daftar nama-nama mahasiswa yang telah lulus :
 3. Atha Tri Ardelia
 4. Aisyah Zakia Artanti
 5. Havifa Mahani Putri
-6. Alysha Deara
-7. Sheira Banu Nasution
+6. Sheira Banu Nasution
