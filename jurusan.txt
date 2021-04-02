@@ -2,4 +2,5 @@ Daftar Jurusan yang ada di kampus Griya Ulin Permai :
 1. Teknik Telekomunikasi
 2. Teknik Informatika
 3. Computer Saince
-4. Kedokteran
+4. Marketing Bisnis
+5. Public Relation
