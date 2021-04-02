@@ -1,0 +1,7 @@
+Mata Kuliah Mahasiswa yang ada
+1. Kalkulus
+2. Algoritma dan Pemrograman
+3. Variable Kompleks
+4. Fisika
+5. Elektromagnetika
+6. Antena dan Propagasi
