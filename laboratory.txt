@@ -1,0 +1,5 @@
+Daftar-daftar laboratory di Kampus Griya Ulin Permai :
+1. Laboratorium Dasar Komputer
+2. Laboratorium Fisika Dasar
+3. Laboratorium Rangkaian Listrik
+4. Laboratorium Sistem Komputer
