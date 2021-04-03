@@ -5,3 +5,6 @@ Daftar-daftar laboratory di Kampus Griya Ulin Permai :
 4. Laboratorium Sistem Komputer
 5. Laboratoium Antena
 6. Laboaratorium PSD
+7. Laboratorium Komputer dan Komunikasi
+8. Laboratorium Teknik Digital
+9. Laboratorium Pemrograman Aplikasi
